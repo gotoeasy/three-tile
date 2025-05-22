@@ -1,5 +1,5 @@
 {
-	"name": "three-tile",
+	"name": "@gotoeasy/three-tile",
 	"private": false,
 	"version": "0.8.6",
 	"type": "module",
@@ -40,7 +40,7 @@
 	"devDependencies": {
 		"@types/node": "^20.2.3",
 		"@types/offscreencanvas": "^2019.7.0",
-		"@types/three": "^0.165.0",
+		"@types/three": "^0.171.0",
 		"typedoc": "^0.25.13",
 		"typescript": "^5.4.5",
 		"vite": "^5.4.11",
@@ -48,7 +48,7 @@
 		"vitest": "^2.0.5"
 	},
 	"peerDependencies": {
-		"three": ">=0.165.0"
+		"three": ">=0.171.0"
 	},
 	"publishConfig": {
 		"registry": "https://registry.npmjs.org/"
